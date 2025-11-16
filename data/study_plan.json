@@ -1,0 +1,102 @@
+{
+  "tasks": [
+    {
+      "subject": "Math",
+      "topic": "Algebra - Linear Equations",
+      "date": "2025-11-16",
+      "planned_minutes": 24,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Algebra - Linear Equations",
+      "date": "2025-11-17",
+      "planned_minutes": 21,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Quadratic Equations",
+      "date": "2025-11-17",
+      "planned_minutes": 3,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Quadratic Equations",
+      "date": "2025-11-18",
+      "planned_minutes": 24,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Quadratic Equations",
+      "date": "2025-11-19",
+      "planned_minutes": 24,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Quadratic Equations",
+      "date": "2025-11-20",
+      "planned_minutes": 4,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Trigonometry Basics",
+      "date": "2025-11-20",
+      "planned_minutes": 20,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Trigonometry Basics",
+      "date": "2025-11-21",
+      "planned_minutes": 23,
+      "status": "planned"
+    },
+    {
+      "subject": "Math",
+      "topic": "Trigonometry Basics",
+      "date": "2025-11-22",
+      "planned_minutes": 12,
+      "status": "planned"
+    },
+    {
+      "subject": "Science",
+      "topic": "Cell Structure",
+      "date": "2025-11-22",
+      "planned_minutes": 11,
+      "status": "planned"
+    },
+    {
+      "subject": "Science",
+      "topic": "Cell Structure",
+      "date": "2025-11-23",
+      "planned_minutes": 23,
+      "status": "planned"
+    },
+    {
+      "subject": "Science",
+      "topic": "Cell Structure",
+      "date": "2025-11-24",
+      "planned_minutes": 1,
+      "status": "planned"
+    },
+    {
+      "subject": "Science",
+      "topic": "Photosynthesis",
+      "date": "2025-11-24",
+      "planned_minutes": 22,
+      "status": "planned"
+    },
+    {
+      "subject": "Science",
+      "topic": "Photosynthesis",
+      "date": "2025-11-25",
+      "planned_minutes": 23,
+      "status": "planned"
+    }
+  ]
+}

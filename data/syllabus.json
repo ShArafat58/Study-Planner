@@ -1,0 +1,19 @@
+{
+  "subjects": [
+    {
+      "name": "Math",
+      "topics": [
+        {"title": "Algebra - Linear Equations", "difficulty": 3},
+        {"title": "Quadratic Equations", "difficulty": 4},
+        {"title": "Trigonometry Basics", "difficulty": 4}
+      ]
+    },
+    {
+      "name": "Science",
+      "topics": [
+        {"title": "Cell Structure", "difficulty": 2},
+        {"title": "Photosynthesis", "difficulty": 3}
+      ]
+    }
+  ]
+}

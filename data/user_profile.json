@@ -1,0 +1,11 @@
+{
+  "name": "Fahim",
+  "grade": "4-1",
+  "subjects": [
+    "CSE",
+    "EEE",
+    "MATH"
+  ],
+  "daily_study_minutes": 240,
+  "preference": "morning"
+}
